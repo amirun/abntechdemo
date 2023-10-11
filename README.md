@@ -41,7 +41,7 @@ There are multiple ways to do this.
      - `SPRING_DATA_MONGODB_DATABASE=<your databse name>`
 
 ## Reference Documentation
-Refer to attached [DEMO PROJECT.pdf](DEMO PROJECT.pdf) in project root.
+Refer to attached [DEMO PROJECT.pdf](./DEMO PROJECT.pdf) in project root.
 
 ## API Guides
 
