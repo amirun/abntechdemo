@@ -1,0 +1,165 @@
+[
+  {
+    "id": "65266f1875a638432407b7ef",
+    "name": "Pan-Seared Salmon with Garlic Butter",
+    "isVegetarian": false,
+    "numberOfServings": 2,
+    "instructions": "1. Heat a pan over medium-high heat.\n2. Season the salmon fillets with salt and pepper.\n3. Add olive oil to the pan and place the salmon fillets skin side down.\n4. Cook for a few minutes until the skin is crispy.\n5. Flip the salmon and add minced garlic and onions to the pan.\n6. Sauté until the garlic is fragrant and the onions are soft.\n7. Add a knob of butter and let it melt, basting the salmon.\n8. Serve the salmon with the garlic and onion butter sauce on top.",
+    "ingredients": [
+      "Salmon fillets",
+      "Garlic",
+      "Onion",
+      "Olive oil",
+      "Butter",
+      "Salt",
+      "Pepper"
+    ]
+  },
+  {
+    "id": "65266f3375a638432407b7f1",
+    "name": "Spicy Chicken Stir-Fry",
+    "isVegetarian": false,
+    "numberOfServings": 2,
+    "instructions": "1. Heat a pan over medium-high heat.\n2. Add chicken pieces and stir-fry until cooked through.\n3. Remove the chicken from the pan.\n4. In the same pan, add onions, garlic, and your choice of vegetables.\n5. Stir-fry until the vegetables are tender.\n6. Add the cooked chicken back to the pan.\n7. Season with your favorite stir-fry sauce and spices.\n8. Stir well and serve hot.",
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Assorted vegetables",
+      "Stir-fry sauce",
+      "Spices"
+    ]
+  },
+  {
+    "id": "652304c679480a036e32a5b9",
+    "name": "Garlic and Spinach Stuffed Mushrooms",
+    "numberOfServings": 4,
+    "instructions": "1. Remove stems from mushrooms and chop them finely.\n2. In a skillet, sauté minced garlic and chopped mushroom stems in olive oil.\n3. Add spinach and cook until wilted.\n4. Fill mushroom caps with the garlic-spinach mixture.\n5. Bake in the oven at 350°F (175°C) for 15-20 minutes.\n6. Serve as appetizers.",
+    "ingredients": [
+      "Mushrooms",
+      "Garlic (minced)",
+      "Spinach",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304d079480a036e32a5ba",
+    "name": "Garlic and Herb Mashed Potatoes",
+    "numberOfServings": 6,
+    "instructions": "1. Boil peeled potatoes until tender.\n2. In a separate pan, heat butter and sauté minced garlic and fresh herbs (e.g., rosemary, thyme).\n3. Drain potatoes, mash them, and mix in the garlic-herb butter.\n4. Season with salt and pepper to taste.\n5. Serve hot.",
+    "ingredients": [
+      "Potatoes",
+      "Garlic (minced)",
+      "Butter",
+      "Fresh herbs",
+      "Salt",
+      "Pepper"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304d879480a036e32a5bb",
+    "name": "Garlic Roasted Brussels Sprouts",
+    "numberOfServings": 4,
+    "instructions": "1. Preheat the oven to 400°F (200°C).\n2. Trim and halve Brussels sprouts.\n3. Toss them with minced garlic, olive oil, salt, and pepper.\n4. Spread and roast them on a baking sheet. \n5. Serve hot.",
+    "ingredients": [
+      "Brussels sprouts",
+      "Garlic (minced)",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304df79480a036e32a5bc",
+    "name": "Beef Tacos",
+    "numberOfServings": 5,
+    "instructions": "1. Brown ground beef in a pan.\n2. Season with taco seasoning.\n3. Serve in taco shells with toppings.",
+    "ingredients": [
+      "Ground beef",
+      "Taco seasoning",
+      "Taco shells",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese"
+    ],
+    "isVegetarian": false
+  },
+  {
+    "id": "652304e779480a036e32a5bd",
+    "name": "Quinoa Salad",
+    "numberOfServings": 4,
+    "instructions": "1. Cook quinoa and let it cool.\n2. Mix with chopped vegetables and herbs.\n3. Drizzle with vinaigrette dressing.\n4. Toss and serve.",
+    "ingredients": [
+      "Quinoa",
+      "Cucumber",
+      "Tomatoes",
+      "Red onion",
+      "Fresh herbs",
+      "Vinaigrette dressing"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304ec79480a036e32a5be",
+    "name": "Lemon Garlic Shrimp",
+    "numberOfServings": 2,
+    "instructions": "1. Sauté shrimp in olive oil until pink.\n2. Add garlic, lemon juice, and parsley.\n3. Cook for another 2 minutes.\n4. Serve hot.",
+    "ingredients": [
+      "Shrimp",
+      "Olive oil",
+      "Garlic",
+      "Lemon juice",
+      "Fresh parsley"
+    ],
+    "isVegetarian": false
+  },
+  {
+    "id": "652304f079480a036e32a5bf",
+    "name": "Homemade Pizza",
+    "numberOfServings": 2,
+    "instructions": "1. Roll out pizza dough.\n2. Spread tomato sauce and add toppings.\n3. Bake in a preheated oven until crust is golden.\n4. Slice and enjoy!",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Bell peppers",
+      "Mushrooms",
+      "Olives"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304f479480a036e32a5c0",
+    "name": "Mushroom Risotto",
+    "numberOfServings": 4,
+    "instructions": "1. Sauté mushrooms and onions in butter.\n2. Add Arborio rice and cook until translucent.\n3. Gradually add hot broth, stirring until absorbed.\n4. Serve with Parmesan cheese.",
+    "ingredients": [
+      "Mushrooms",
+      "Arborio rice",
+      "Onion",
+      "Butter",
+      "Vegetable broth",
+      "Parmesan cheese"
+    ],
+    "isVegetarian": true
+  },
+  {
+    "id": "652304f879480a036e32a5c1",
+    "name": "Spaghetti Bolognese",
+    "numberOfServings": 4,
+    "instructions": "1. Brown ground beef in a pan.\n2. Add onions, garlic, and tomatoes.\n3. Simmer for 30 minutes.\n4. Serve over cooked spaghetti.",
+    "ingredients": [
+      "Ground beef",
+      "Spaghetti",
+      "Onions",
+      "Garlic",
+      "Tomato sauce"
+    ],
+    "isVegetarian": false
+  }
+]
